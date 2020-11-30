@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.exe
+   logfile = D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.InstallLog
+Устанавливается служба My service...
+Служба My service успешно установлена.
+Создается исходный EventLog My service в журнале Application...
+Выполняется фиксация сборки 'D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.exe
+   logfile = D:\ISP(3)\Lab2\Lab2\bin\Debug\Lab2.InstallLog

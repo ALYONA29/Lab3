@@ -1,0 +1,9 @@
+D:\ISP(3)\Lab2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\ISP(3)\Lab2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\ISP(3)\Lab2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+D:\ISP(3)\Lab2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
